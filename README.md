@@ -3,38 +3,38 @@
 Created using Flask, VueJS and SQLite3
 Folder Structure
 
-code
-├── application
-│   ├── api.py
-│   ├── cache.py
-│   ├── config.py
-│   ├── controllers.py
-│   ├── db_func.py
-│   ├── dbase.py
-│   ├── models.py
-│   ├── tasks.py
-│   └── workers.py
-├── db
-│   └── db1.sqlite3
-├── export_posts.csv
-├── local_beat.sh
-├── local_run.sh
-├── local_setup.sh
-├── local_workers.sh
-├── main.py
-├── req.txt
-├── static
-│   ├── imgs
-│   │   └── assets
-│   │       ├── logincover.png
-│   │       ├── pexels-steve-johnson-1843717.jpg
-│   │       └── user.png
-│   └── spa.js
-└── templates
-    ├── index.html
-    ├── register_user.html
-    └── security
-        └── login_user.html
+code\
+├── application\
+│   ├── api.py\
+│   ├── cache.py\
+│   ├── config.py\
+│   ├── controllers.py\
+│   ├── db_func.py\
+│   ├── dbase.py\
+│   ├── models.py\
+│   ├── tasks.py\
+│   └── workers.py\
+├── db\
+│   └── db1.sqlite3\
+├── export_posts.csv\
+├── local_beat.sh\
+├── local_run.sh\
+├── local_setup.sh\
+├── local_workers.sh\
+├── main.py\
+├── req.txt\
+├── static\
+│   ├── imgs\
+│   │   └── assets\
+│   │       ├── logincover.png\
+│   │       ├── pexels-steve-johnson-1843717.jpg\
+│   │       └── user.png\
+│   └── spa.js\
+└── templates\
+    ├── index.html\
+    ├── register_user.html\
+    └── security\
+        └── login_user.html\
 
 FOR LINUX/ WSL USERS:
 > Extract all content from the zip folder
