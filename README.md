@@ -1,8 +1,8 @@
 # bloglite
- 
-------------------------------------------------------------------
+
 Created using Flask, VueJS and SQLite3
 Folder Structure
+
 code
 ├── application
 │   ├── api.py
@@ -35,7 +35,7 @@ code
     ├── register_user.html
     └── security
         └── login_user.html
---------------------------------------------------------------------
+
 FOR LINUX/ WSL USERS:
 > Extract all content from the zip folder
 > Open the code folder and launch terminal
